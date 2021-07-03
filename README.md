@@ -7,6 +7,7 @@ I am a fullstack software engineer from bangladesh
 - 🌱 I have hands-on experience with Gradle, Maven, Jenkins, Docker containers, docker-compose, Kubernetes, etc tools.
 - 🌱 I have knowledge on OOP and design patterns. I strictly follow SOLID principles and clean code.
 <br>
+
 ## Connect with me
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sajedulkarim/)
